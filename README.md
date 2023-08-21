@@ -1,7 +1,7 @@
 # Wurd
 
 ## Description
-A text editor with the ability to upload documents, spellcheck, and undo changes. The editor also highlights misspelled words in red and provides spelling suggestions.
+A text editor with the ability to upload documents, spellcheck, and undo changes. The editor highlights misspelled words in red and provides spelling suggestions.
 
 ## Screenshot
 ![image](https://github.com/nikihosseinian/Wurd/blob/main/screenshot.jpg)
